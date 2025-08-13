@@ -1,0 +1,2 @@
+# KLASIFIKASI-KEMATANGAN-KELAPA-SAWIT-MENGGUNAKAN-ALGORITMA-SVM-PADA-PERKEBUNAN-MASYARAKAT-KOTIM
+Repositori ini memuat kode dan dataset penelitian skripsi untuk mengklasifikasikan kematangan buah sawit menjadi tiga kelas: Masak, Mengkal, dan Mentah. Dibandingkan dua metode: citra dengan background dan tanpa background (hasil thresholding). Evaluasi menggunakan SVM dan perbandingan kinerja diuji dengan Uji McNemar.
